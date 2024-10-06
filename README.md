@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">Frontend Web Developer specializing in React, Next.js, and TypeScript. I also tackle backend with Python when I’m feeling adventurous. Love clean UIs, hate bugs (unless they’re debugged).</h3>
+<h3 align="center">"Front-end web developer skilled in React, Next.js, and TypeScript. I create sleek UIs, troubleshoot bugs, and often find myself wondering why things only seem to break after I hit 'deploy'!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltghuy&label=Profile%20views&color=0e75b6&style=flat" alt="ltghuy" /> </p>
 
@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ltghuy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ltghuy/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ltghuy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ltghuy/" height="40" width="40" /></a>
 <br />
 <br />
-<a href="https://instagram.com/https://www.instagram.com/_ltghuy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ltghuy/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/_ltghuy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ltghuy/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
